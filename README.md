@@ -1,4 +1,4 @@
-# Durham Person Computer Users Club (DPCUC)
+# Durham Personal Computer Users Club (DPCUC)
 
 I am trying out an idea suggested to me by my good friend Bret Walters.
 
