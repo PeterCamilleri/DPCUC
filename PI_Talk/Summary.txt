@@ -14,11 +14,11 @@ multiply at an incredible rate.
 Keeping up with the new machines is like facing a constant
 tsunami of products.
 
-The question that ariases though is where do these machines
+The question that arises though is where do these machines
 fit it? What are they good at?
 
 In this talk we will examine the credit card sized computer
-segement, focusing on the Raspberry PI and look at how it
+segment, focusing on the Raspberry PI and look at how it
 can be useful and who will find it effective and who will
 find it gathering dust.
 
