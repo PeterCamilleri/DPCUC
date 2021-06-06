@@ -1,0 +1,21 @@
+One of the amazing bits of tech we all take
+for granted is the SD memory card. These tiny
+storage systems enable a wide variety of 
+devices from cameras, smart phones, to small
+credit card sized computers.
+
+In this talk we take a look at these devices
+including where they came from and what you 
+will need to know about how they are used 
+and what performance you will need and what 
+levels you don't need to pay extra for.
+
+Unlike USB thumb drives, SD cards tell us a
+great deal about the performance they are
+designed to deliver and this information can
+be very useful in making an educated choice.
+
+Like all things, there is also a dark side
+to this tech. We will also look at SD card
+hacking and counterfeiting and what can be
+done to avoid grief.
