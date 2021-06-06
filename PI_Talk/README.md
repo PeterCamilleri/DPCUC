@@ -88,3 +88,5 @@ These links are to some suppliers of PI and related stuff!
 [Rock Pi X X86 SBC WIndows 10 Review - Is it Any Good?](https://youtu.be/kI1FeDvcSFU)
 
 [The Best Single Board Computers Of 2020 Top 5 ARM SBC’s](https://youtu.be/QtkyzkxiKh8)
+
+[Single Board Computers](https://explainingcomputers.com/sbc.html)
