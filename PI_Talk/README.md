@@ -27,6 +27,13 @@ These links are to some suppliers of PI and related stuff!
 
 [Amazon.ca](https://www.amazon.ca/s?k=raspberry+pi)
 
+### The PI Hole
+
+[PI Hole](https://pi-hole.net/)
+
+[PI Hole Docs](https://docs.pi-hole.net/)
+
+
 ### Selected articles from Tom's Hardware
 
 [Raspberry PI 9th Birthday](https://www.tomshardware.com/uk/news/raspberry-pi-9th-birthday)
@@ -74,8 +81,6 @@ These links are to some suppliers of PI and related stuff!
 [Raspberry Pi boots off an NVMe SSD, natively!](https://youtu.be/4Womn10v71s)
 
 [#275​ Raspberry Pi 4: Test and Weaknesses](https://youtu.be/0diTHAmVbhc)
-
-[Pi Hole](https://pi-hole.net/)
 
 [Amiga PiStorm - Retro Power on a Budget - Tech Nibble](https://youtu.be/nlVTt_VeHJs)
 
