@@ -1,0 +1,27 @@
+_As easy as PI?_
+
+"We made a toy for children...
+ and people took it to all sorts of exciting places."
+Ebon Upton
+  - A founder of the Raspberry PI Foundation
+  - CEO of Raspberry PI (Trading) Ltd.
+
+The Raspberry PI is a compact, inexpensive computer that
+has taken the world by storm. It is one brand among dozens
+of these little credit card sized machines that seem to
+multiply at an incredible rate.
+
+Keeping up with the new machines is like facing a constant
+tsunami of products.
+
+The question that ariases though is where do these machines
+fit it? What are they good at?
+
+In this talk we will examine the credit card sized computer
+segement, focusing on the Raspberry PI and look at how it
+can be useful and who will find it effective and who will
+find it gathering dust.
+
+
+
+
