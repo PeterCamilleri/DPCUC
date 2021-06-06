@@ -17,7 +17,7 @@ The presentation is contained in the file [**tbd.pdf**](./tbd.pdf).
 
 ### Maker Level Suppliers
 
-These links are to some suppliers for us Canadians! Eh!
+These links are to some suppliers PI and related stuff!
 
 [AdaFruit](https://www.adafruit.com/)
 
@@ -27,5 +27,14 @@ These links are to some suppliers for us Canadians! Eh!
 
 [Amazon.ca](https://www.amazon.ca/s?k=raspberry+pi)
 
+### Selected articles from Tom's Hardware
+
+[Raspberry PI 9th Birthday](https://www.tomshardware.com/uk/news/raspberry-pi-9th-birthday)
+
+[Best Raspberry PI Projects](https://www.tomshardware.com/features/best-raspberry-pi-projects/1)
+
+[Best Raspberry PI Accessories](https://www.tomshardware.com/best-picks/best-raspberry-pi-accessories)
+
+[Raspberry PI GPIO Pinout](https://www.tomshardware.com/reviews/raspberry-pi-gpio-pinout,6122.html)
 
 
