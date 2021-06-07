@@ -44,7 +44,7 @@ These links are to some suppliers of PI and related stuff!
 
 [Raspberry PI GPIO Pinout](https://www.tomshardware.com/reviews/raspberry-pi-gpio-pinout,6122.html)
 
-### So many Raspberry PI Videos
+### So many Raspberry PI Articles and Videos
 
 [CosmicPI: Detecting Cosmic Rays with a Raspberry Pi](https://youtu.be/PCB8nv4fatc)
 
