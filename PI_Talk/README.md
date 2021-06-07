@@ -46,6 +46,8 @@ These links are to some suppliers of PI and related stuff!
 
 ### So many Raspberry PI Articles and Videos
 
+[CupCade - New Products @ adafruit](https://youtu.be/xWFJdaWgmVg)
+
 [CosmicPI: Detecting Cosmic Rays with a Raspberry Pi](https://youtu.be/PCB8nv4fatc)
 
 [Raspberry Pi Anemometer: Measuring Wind Speed!](https://youtu.be/1LPEPZ02-t8)
